@@ -49,7 +49,7 @@ What you'll do:
 Can you do it?
 --------------
 
-* Probably!
+* Yes!
 * No background knowledge needed
 * Time commitment
     * Attend lectures
