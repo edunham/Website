@@ -11,7 +11,7 @@ What We'll Cover
 * Setting up an account
 * Adding a project
 * Contributing to someone else's project
-* Help, everything's broken!
+* How to fix a broken Git Repositoy
 * More resources
 
 Version Control is Hard
