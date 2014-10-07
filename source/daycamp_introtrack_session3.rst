@@ -101,7 +101,8 @@ What Not To Do
 
 .. note:: Yes, there are ways to sort of take them down off of GitHub, but
     somebody might have cloned your repo while it had the secrets in. Once
-    someone has a piece of information, you can't just take it away.
+    someone has a piece of information, you can't just take it away. Make sure
+    to change all secrets that do get accidentally committed.
 
 .. figure:: /static/dont_do_this.jpg
     :scale: 50%
