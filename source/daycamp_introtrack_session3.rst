@@ -6,8 +6,8 @@ Version Control
 What We'll Cover
 ================
 
-* What's Git
-* What's GitHub
+* What Git is
+* What GitHub is
 * Setting up an account
 * Adding a project
 * Contributing to someone else's project
