@@ -28,8 +28,8 @@ Why are we doing this?
 ----------------------
 
 * OSL's move to EECS
-* Bridge the “Skills Gap”
-* Demand from companies for students
+* Bridge the Skills Gap
+* Demand from companies for students with experience
 * Build community
 
 What you'll do:
@@ -39,7 +39,7 @@ What you'll do:
     * Linux systems
     * Networking
     * Software development
-    * ...and the other skills you’ll need
+    * ...and the other skills you'll need
 * Build:
     * Duplicate internet infrastructure
     * Graduate to helping with OSL tasks
