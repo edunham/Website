@@ -98,6 +98,7 @@ What Not To Do
     magically add a commit in where you forgot to make one.
 
 * Don't commit secrets...
+  * Secrets are things like passwords, api keys, or other information that should be kept private
 
 .. note:: Yes, there are ways to sort of take them down off of GitHub, but
     somebody might have cloned your repo while it had the secrets in. Once
